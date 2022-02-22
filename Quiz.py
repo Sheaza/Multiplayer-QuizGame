@@ -1,0 +1,1 @@
+q = [['test1', 'nie'], ['test2', 'nie'], ['test3', 'nie'], ['test4', 'nie'], ['test5', 'nie'], ['test6', 'nie'], ['test7', 'nie'], ['test8', 'nie'], ['test9', 'nie'], ['test10', 'nie'], ['test11', 'nie'], ['test12', 'nie'], ['test13', 'nie'], ['test14', 'nie'], ['test15', 'nie'], ['test16', 'nie'], ['test17', 'nie'], ['test18', 'nie'], ['test19', 'nie'], ['test20', 'nie']]
