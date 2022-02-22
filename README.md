@@ -1,2 +1,2 @@
 # Multiplayer-QuizGame
-Multiplayer Quiz Game with sockets and multithreading
+Multiplayer Quiz Game made with python using sockets and multithreading
